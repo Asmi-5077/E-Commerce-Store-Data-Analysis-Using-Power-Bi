@@ -14,7 +14,7 @@ Developed an e-commerce sales dashboard to analyze sales, profit, quantity, and 
 - Which sub-categories generate the highest and lowest profits?
 - How do sales and profit trends vary across different months and product categories?
 
-- Dashboard Interaction
+- Dashboard Interaction <a href="https://github.com/Asmi-5077/E-Commerce-Store-Data-Analysis-Using-Power-Bi/blob/main/Screenshot%202026-08-18%20012223.png">View Dashboard</a> 
 
 ## Process
 
@@ -29,6 +29,7 @@ Developed an e-commerce sales dashboard to analyze sales, profit, quantity, and 
 
 ## Dashboard 
 
+  ![Uploading E-commerce store dashboard pic.png…](https://github.com/Asmi-5077/E-Commerce-Store-Data-Analysis-Using-Power-Bi/blob/main/Screenshot%202026-08-18%20012223.png)
 
 
 ## Project Insights 
