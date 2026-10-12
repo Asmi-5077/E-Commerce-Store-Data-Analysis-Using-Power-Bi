@@ -2,6 +2,9 @@
 Developed an e-commerce sales dashboard to analyze sales, profit, quantity, and customer performance. Visualized monthly trends, regional sales, and product category insights using interactive charts and filters to support data-driven decision-making.
 
 # Dataset Used 
+<a href="https://github.com/Asmi-5077/E-Commerce-Store-Data-Analysis-Using-Power-Bi/blob/main/Details.csv">Details Csv</a>
+
+<a href="https://github.com/Asmi-5077/E-Commerce-Store-Data-Analysis-Using-Power-Bi/blob/main/Orders.csv">Orders Csv</a>
 
 
 ## Questions ( KPIs) 
